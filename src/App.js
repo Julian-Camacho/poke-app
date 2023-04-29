@@ -55,10 +55,6 @@ function App() {
       <div>
         {loading ? <h1 style={{ textAlign: 'center' }}>Loading...</h1> : (
           <>
-            <div className="btn">
-              <button onClick={prev}>Prev</button>
-              <button onClick={next}>Next</button>
-            </div>
             <div className="container">
               {pokemonData.map((pokemon, i) => {
                 return <Card key={i} pokemon={pokemon} />

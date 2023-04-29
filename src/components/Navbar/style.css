@@ -1,5 +1,10 @@
 .Navbar {
     padding: 20px;
     background: #FF4236;
-    color: white;
+    color: #eff3ff;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 900;
 }

@@ -42,3 +42,20 @@
   flex-direction: row;
   flex-wrap: wrap;
 }
+ .btn{
+  display: flex;
+  justify-content: center;
+  margin: 10px auto;
+ }
+
+ .btn button{
+  margin: 0 10px;
+  display: block;
+  padding: 10px 20px;
+  font-size: 12px;
+  background-color: #101010;
+  color: #ffffff;
+  position: relative;
+  border: none;
+  border-radius: 5px;
+ }
