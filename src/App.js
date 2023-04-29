@@ -59,7 +59,7 @@ function App() {
               <button onClick={prev}>Prev</button>
               <button onClick={next}>Next</button>
             </div>
-            <div className="grid-container">
+            <div className="container">
               {pokemonData.map((pokemon, i) => {
                 return <Card key={i} pokemon={pokemon} />
               })}

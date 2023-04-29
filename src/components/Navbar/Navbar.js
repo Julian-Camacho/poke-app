@@ -4,7 +4,7 @@ import './style.css';
 function Navbar() {
     return (
         <div className="Navbar">
-            Pokemon API
+            Poke App
         </div>
     );
 }
