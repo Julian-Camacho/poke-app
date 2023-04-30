@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/poke-app-v.2/static/css/main.0fa4bf0c.css",
-    "main.js": "/github.io/poke-app-v.2/static/js/main.b6dc4e06.js",
-    "static/js/787.5e0115c2.chunk.js": "/github.io/poke-app-v.2/static/js/787.5e0115c2.chunk.js",
-    "index.html": "/github.io/poke-app-v.2/index.html",
-    "main.0fa4bf0c.css.map": "/github.io/poke-app-v.2/static/css/main.0fa4bf0c.css.map",
-    "main.b6dc4e06.js.map": "/github.io/poke-app-v.2/static/js/main.b6dc4e06.js.map",
-    "787.5e0115c2.chunk.js.map": "/github.io/poke-app-v.2/static/js/787.5e0115c2.chunk.js.map"
+    "main.css": "/poke-app-v.2/static/css/main.0fa4bf0c.css",
+    "main.js": "/poke-app-v.2/static/js/main.a93fad91.js",
+    "static/js/787.5e0115c2.chunk.js": "/poke-app-v.2/static/js/787.5e0115c2.chunk.js",
+    "index.html": "/poke-app-v.2/index.html",
+    "main.0fa4bf0c.css.map": "/poke-app-v.2/static/css/main.0fa4bf0c.css.map",
+    "main.a93fad91.js.map": "/poke-app-v.2/static/js/main.a93fad91.js.map",
+    "787.5e0115c2.chunk.js.map": "/poke-app-v.2/static/js/787.5e0115c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fa4bf0c.css",
-    "static/js/main.b6dc4e06.js"
+    "static/js/main.a93fad91.js"
   ]
 }
